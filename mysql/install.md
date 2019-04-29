@@ -1,6 +1,13 @@
-# mysql-8.0.13-winx64.zip安装教程详解
+# mysql安装过程
 
-## 安装：
+## 目录
+- [mysql-8.0.13-winx64.zip](#mysql-8.0.13-winx64.zip)
+    - [安装](#安装)
+
+
+## mysql-8.0.13-winx64.zip
+
+### 安装：
 1. 解压zip包到安装目录
 
     D:\Program Files\MySql
