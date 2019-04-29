@@ -1,11 +1,11 @@
 # mysql安装过程
 
 ## 目录
-- [mysql-8.0.13-winx64.zip](#mysql-8.0.13-winx64.zip)
+- [zip](zip)
     - [安装](#安装)
 
 
-## mysql-8.0.13-winx64.zip
+## zip
 
 ### 安装：
 1. 解压zip包到安装目录
